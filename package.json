@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "fernan68:toggle"
   },
-  "repository": "https://github.com/atom/fernan68",
+  "repository": "https://github.com/fernan68/fernan68",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
